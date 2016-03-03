@@ -16,7 +16,7 @@ A sample made to demonstrate XAML style overrides
 	<ContentPage.Content>
 		<StackLayout Padding="20,20,20,20">
 			<Label Text="Style Only (Red + Large font)" Style="{StaticResource mSubTitleStyle}"/>
-			<Label Text="Style + Overrided Color(Blue)" Style="{StaticResource mSubTitleStyle}"  TextColor="Blue"/>
+			<Label Text="Style + Overrided Color(Blue)" Style="{StaticResource mSubTitleStyle}" TextColor="Blue"/>
 			<Label Text="Style + Overrided Size(Small)" Style="{StaticResource mSubTitleStyle}" FontSize="Small"/>
 			<Label Text="Style + Overrided Size(Micro)" Style="{StaticResource mSubTitleStyle}" FontSize="Micro"/>
 		</StackLayout>

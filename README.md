@@ -1,6 +1,6 @@
 # XAMLColorOverride
 
-A sample made to demonstrate XAML style overrides
+A sample made to demonstrate Xamarin XAML style overrides
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
